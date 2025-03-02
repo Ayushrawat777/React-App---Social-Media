@@ -9,8 +9,8 @@ function App() {
     <Router>
       <Navbar />
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/item/:id" element={<Detail />} />
+        <Route path="/React-App---Social-Media/" element={<Home />} />
+        <Route path="/React-App---Social-Media/item/:id" element={<Detail />} />
       </Routes>
     </Router>
   );
