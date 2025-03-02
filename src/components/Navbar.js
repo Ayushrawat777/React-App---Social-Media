@@ -6,7 +6,7 @@ const Navbar = () => {
     <nav className="navbar">
       <h1 className="logo">TravelMedia.in</h1>
       <div className="icons">
-        <Link to="/">
+        <Link to="/React-App---Social-Media/">
           <span>🏠</span>
         </Link>
         <span>🔔</span>
